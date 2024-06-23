@@ -1,2 +1,2 @@
 # premier projector
-juste pour voi ce que ca fait
+juste pour voir ce que ca fait
